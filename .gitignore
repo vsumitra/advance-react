@@ -1,5 +1,4 @@
 node_modules/
-public/vendor.js
-public/app.js
+public/bundle.js
 coverage/
 build/
